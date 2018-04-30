@@ -1,0 +1,59 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2043
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{262852C6-CD72-467D-83FE-5EEB1973A190}") = "Blind Controller", "Blind Controller\Blind Controller.jsproj", "{D7735ADB-DB74-44B7-8689-CB12B880837C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Android = Debug|Android
+		Debug|iOS = Debug|iOS
+		Debug|Windows-ARM = Debug|Windows-ARM
+		Debug|Windows-x64 = Debug|Windows-x64
+		Debug|Windows-x86 = Debug|Windows-x86
+		Release|Android = Release|Android
+		Release|iOS = Release|iOS
+		Release|Windows-ARM = Release|Windows-ARM
+		Release|Windows-x64 = Release|Windows-x64
+		Release|Windows-x86 = Release|Windows-x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7735ADB-DB74-44B7-8689-CB12B880837C}.Debug|Android.ActiveCfg = Debug|Android
+		{D7735ADB-DB74-44B7-8689-CB12B880837C}.Debug|Android.Build.0 = Debug|Android
+		{D7735ADB-DB74-44B7-8689-CB12B880837C}.Debug|Android.Deploy.0 = Debug|Android
+		{D7735ADB-DB74-44B7-8689-CB12B880837C}.Debug|iOS.ActiveCfg = Debug|iOS
+		{D7735ADB-DB74-44B7-8689-CB12B880837C}.Debug|iOS.Build.0 = Debug|iOS
+		{D7735ADB-DB74-44B7-8689-CB12B880837C}.Debug|iOS.Deploy.0 = Debug|iOS
+		{D7735ADB-DB74-44B7-8689-CB12B880837C}.Debug|Windows-ARM.ActiveCfg = Debug|Windows-ARM
+		{D7735ADB-DB74-44B7-8689-CB12B880837C}.Debug|Windows-ARM.Build.0 = Debug|Windows-ARM
+		{D7735ADB-DB74-44B7-8689-CB12B880837C}.Debug|Windows-ARM.Deploy.0 = Debug|Windows-ARM
+		{D7735ADB-DB74-44B7-8689-CB12B880837C}.Debug|Windows-x64.ActiveCfg = Debug|Windows-x64
+		{D7735ADB-DB74-44B7-8689-CB12B880837C}.Debug|Windows-x64.Build.0 = Debug|Windows-x64
+		{D7735ADB-DB74-44B7-8689-CB12B880837C}.Debug|Windows-x64.Deploy.0 = Debug|Windows-x64
+		{D7735ADB-DB74-44B7-8689-CB12B880837C}.Debug|Windows-x86.ActiveCfg = Debug|Windows-x86
+		{D7735ADB-DB74-44B7-8689-CB12B880837C}.Debug|Windows-x86.Build.0 = Debug|Windows-x86
+		{D7735ADB-DB74-44B7-8689-CB12B880837C}.Debug|Windows-x86.Deploy.0 = Debug|Windows-x86
+		{D7735ADB-DB74-44B7-8689-CB12B880837C}.Release|Android.ActiveCfg = Release|Android
+		{D7735ADB-DB74-44B7-8689-CB12B880837C}.Release|Android.Build.0 = Release|Android
+		{D7735ADB-DB74-44B7-8689-CB12B880837C}.Release|Android.Deploy.0 = Release|Android
+		{D7735ADB-DB74-44B7-8689-CB12B880837C}.Release|iOS.ActiveCfg = Release|iOS
+		{D7735ADB-DB74-44B7-8689-CB12B880837C}.Release|iOS.Build.0 = Release|iOS
+		{D7735ADB-DB74-44B7-8689-CB12B880837C}.Release|iOS.Deploy.0 = Release|iOS
+		{D7735ADB-DB74-44B7-8689-CB12B880837C}.Release|Windows-ARM.ActiveCfg = Release|Windows-ARM
+		{D7735ADB-DB74-44B7-8689-CB12B880837C}.Release|Windows-ARM.Build.0 = Release|Windows-ARM
+		{D7735ADB-DB74-44B7-8689-CB12B880837C}.Release|Windows-ARM.Deploy.0 = Release|Windows-ARM
+		{D7735ADB-DB74-44B7-8689-CB12B880837C}.Release|Windows-x64.ActiveCfg = Release|Windows-x64
+		{D7735ADB-DB74-44B7-8689-CB12B880837C}.Release|Windows-x64.Build.0 = Release|Windows-x64
+		{D7735ADB-DB74-44B7-8689-CB12B880837C}.Release|Windows-x64.Deploy.0 = Release|Windows-x64
+		{D7735ADB-DB74-44B7-8689-CB12B880837C}.Release|Windows-x86.ActiveCfg = Release|Windows-x86
+		{D7735ADB-DB74-44B7-8689-CB12B880837C}.Release|Windows-x86.Build.0 = Release|Windows-x86
+		{D7735ADB-DB74-44B7-8689-CB12B880837C}.Release|Windows-x86.Deploy.0 = Release|Windows-x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {78A62670-151F-4C3E-9199-BCC78CF1776A}
+	EndGlobalSection
+EndGlobal
