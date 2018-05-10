@@ -32,23 +32,14 @@ body {
 }
 
 .app {
-    background: url(../images/cordova.png) no-repeat center top; 
-    position: absolute;             
+    position: absolute;
     left: 50%;
-    top: 50%;
-    height: 50px;                  
-    width: 225px;                   
+    top: 30%;
+    height: 50px;
+    width: 225px;
     text-align: center;
-    padding: 180px 0px 0px 0px;     
-    margin: -115px 0px 0px -112px;
-}
-
-@media screen and (min-aspect-ratio: 1/1) and (min-width:400px) {
-    .app {
-        background-position:left center;
-        padding:75px 0px 75px 170px;
-        margin:-90px 0px 0px -198px;
-    }
+    padding: 10px 0px 0px 0px;
+    margin: -116px 0px 0px -112px;
 }
 
 h1 {
@@ -58,6 +49,7 @@ h1 {
     overflow:visible;
     padding:0px;
     text-align:center;
+    margin-bottom: 20px;
 }
 
 .event {
